@@ -1,0 +1,52 @@
+Целият разговор: тъй като историята развива теми, свързани със смърт и убийства, платформата ChatGPT не ни позволява да споделим линк към различните подкани.
+
+Примерна първа подкана:
+User
+1) give me a description of a character for a detective story whose name is Liam Parker. Let it be 60-70 words
+2) give me a description for Parker's love interest, Emily Evans, who is also one of the prime suspects of a murder case
+3) give me a description for a character who is the sibling of the murdered person. His name is Ryan Wilson. Let it be 60-70 words
+------------------------
+
+Подкани за генериране на изображения за герои:
+
+1. Liam Parker:
+Description:
+
+Liam Parker, a seasoned detective with sharp instincts and a meticulous eye for detail, navigates the gritty streets of the city with authority. His rugged demeanor belies a keen intellect and a relentless pursuit of justice.
+Clad in a weathered trench coat and a fedora, Liam commands respect in the precinct, known for his unwavering dedication to solving even the most perplexing cases. His past experiences shape his stoic resolve as he delves fearlessly into the shadows of criminal underworlds
+
+PROMPT: detective, mysterious, middle-aged, fedora, meticulous, devoted, man, realism, ultra-detailed
+
+2. Emily Evans:
+Description:
+
+Emily Evans, with her striking hazel eyes and auburn curls cascading down her shoulders, exudes an air of mystery and charm. A renowned art curator, her elegant demeanor masks a complex past and hidden motives. Despite her poised exterior, whispers of her involvement in the murder case linger, casting shadows over her impeccable reputation. Yet, beneath the facade lies a vulnerable soul, torn between loyalty and deception, leaving detectives like Liam Parker torn between suspicion and desire for the truth.
+
+PROMPT: alluring, red-haired, gorgeous, woman, hazel eyes, realism, ultra-detailed
+
+3. Ryan Wilson:
+Description:
+
+Ryan Wilson, the brother of the slain individual, possesses a quiet strength and steely determination. With piercing blue eyes that mirror his resolve, Ryan navigates the tumultuous aftermath of his sibling's tragic demise with a mix of grief and determination for justice.
+Despite his reserved nature, his unwavering loyalty to his family fuels his relentless pursuit of the truth, driving him to unravel the dark secrets surrounding the murder with unwavering resolve.
+
+PROMPT: blue eyes, blonde, man, suspicious, grey t-shirt, realism, ultra-detailed
+
+------------------------
+
+Подкани за генериране на изображения за места/сцени:
+
+1. The Forest:
+Description:
+
+The forest where the murdered individual was found is a haunting tapestry of ancient trees and tangled undergrowth. Towering pines cast long shadows over the forest floor, where shafts of sunlight filter through the dense canopy, dappling the moss-covered ground with patches of light. The air is thick with the earthy scent of pine needles and damp soil, while the distant calls of woodland creatures echo through the silent groves. As the foliage thickens, secrets lurk beneath the gnarled roots and within the depths of the forbidding shadows, concealing clues that may hold the key to unlocking the mystery.
+
+2. The Office:
+Description:
+
+The detective's office is a dimly lit sanctuary of order amidst the chaos of the city. Rows of dusty bookshelves line the walls, filled with weathered tomes and case files that chronicle the detective's past triumphs and failures. A mahogany desk sits at the room's center, adorned with stacks of paperwork and a vintage typewriter that clacks rhythmically in the background. The air is heavy with the scent of aged leather and stale coffee, while the soft glow of lamplight casts long shadows across the worn hardwood floor. In this secluded haven, the detective meticulously pieces together the puzzle of the murder case, methodically unraveling its intricacies until the truth emerges from the shadows.
+
+3. Ryan's Home:
+Description:
+
+Ryan's home presents itself as an unassuming suburban haven, with a neatly manicured lawn and a charming exterior. Upon entering, guests are greeted by a cozy living room furnished with plush sofas and soft lighting, evoking a sense of comfort and familiarity.Yet, lurking beneath the surface of domestic tranquility are subtle hints of discord – a peculiar painting that seems to follow one's gaze, a flickering light that casts unsettling shadows, and a locked door that beckons curiosity. Despite its outward appearance of normalcy, Ryan's home harbors sinister surprises waiting to be uncovered by those daring enough to explore its depths.
